@@ -85,7 +85,7 @@ let context;
      }
      else if(ball.y +ball.height >= boardHeight){
       // if ball touches bottom the game over
-       context.fillStyle="#b7e0f4"
+       context.fillStyle="#e0902e"
        context.font="20px san-serif";
        context.fillText("Game over.",200,400);
        gameOver=true;
