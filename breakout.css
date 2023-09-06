@@ -1,0 +1,17 @@
+body{
+	text-align: center;
+}
+#board{
+    background-color: black;
+    background-color: rgba(255,255,255,0.1);
+     margin-top:6% ;
+     border-top:5px solid skyblue;
+     border-left:5px solid wheat;
+     border-right: 5px solid whitesmoke;
+     
+ }
+ .home{
+    margin-bottom: 16%;
+    margin-left:50%%;
+    border-radius: 20%;
+ }
